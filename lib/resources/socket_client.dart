@@ -18,4 +18,4 @@ class SocketClient {
   }
 }
 
-//192.168.1.20 is my local ip address. You can use your local ip address or localhost.
+//192.168.1.20 is my lo 
